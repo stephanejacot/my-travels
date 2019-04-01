@@ -10,13 +10,13 @@ class App extends Component {
         <Travel
           destination="Madrid "
           country="Spain "
-          photo="à charger "
-          distance="350 km "
-      />
+          photo= 'https://i.ibb.co/GF00wRS/Madrid.jpg'
+        distance="350 km "
+    />
         <Travel
           destination="London "
           country="England "
-          photo= "à charger "
+          photo= "https://i.ibb.co/VtPhPbS/Londres.jpg"
           distance="850 km "
         />
       </div>
